@@ -1,6 +1,13 @@
 # EASOcitia  //   WIP  // first project in Flutter & Dart; learning by doing;
 ### Caution - you might encounter some spaghetti code - pls bear with me
 
+---
+### Additional services used -
+  - Google Firebase
+  - Google Firestore Database
+  
+---
+
 Screenshots as per v1.3.0:
 
 ### Login Page
