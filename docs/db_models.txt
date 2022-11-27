@@ -1,0 +1,18 @@
+USER:
+   - email;
+   - password;
+
+
+PROPRIETAR:
+    - email;
+    - nume;
+    - apartament;
+    - telefon;
+    - unique_id;
+
+INTRETINERE:
+    - data_rep;
+    - idx_apa_calda;
+    - idx_apa_rece;
+    - foreing_key -> PROPRIETAR.unique_id;
+
